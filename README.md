@@ -19,8 +19,14 @@ Artifact kinds assigned to this family:
 - `ccm_tau_matrix`
 - `ccm_even_sector_matrix`
 - `ccm_odd_sector_matrix`
+- `ccm_sector_tridiagonal`
+- `ccm_sector_transform`
 - `ccm_reduced_operator`
 - `ccm_factorization`
+
+This shard's routing metadata is synchronized with Xcelerator Toolkit v0.14.1.
+Listing a kind permits validated publication; it does not assert that an
+artifact of that kind is currently present.
 
 ## Layout
 
